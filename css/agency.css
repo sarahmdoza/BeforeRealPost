@@ -258,14 +258,24 @@ padding-right:60px;
 	margin: 20px 50px;
 	
 }
-.comlogo {
-    
-        
+.sponsorpalms {
+    background-image: url(../img/Sponsors/Palm_Back.png);
+    background-repeat: none;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: #fff;
+	padding: 90px 0px; 
 }
-	  
-.logo-stack {
-	
+.sponsors { margin-bottom:40px;
 }
+.sponsors h2 {
+	color: white;
+	}
 
 
 @media (min-width:768px) {
