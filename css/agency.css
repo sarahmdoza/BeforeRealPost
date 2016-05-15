@@ -250,6 +250,20 @@ padding-right:60px;
 	color:#4ea2ce;
 }
 
+.judges-back {
+	background-color:white;
+}
+.comlogo img {
+	float: left;
+	margin: 20px 30px 20px 0px;
+	
+}
+.comlogo {
+	width: 80%;
+    margin: 0 auto;
+        
+      }
+
 
 @media (min-width:768px) {
     .navbar-default {
