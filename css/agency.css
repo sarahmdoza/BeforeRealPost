@@ -254,15 +254,18 @@ padding-right:60px;
 	background-color:white;
 }
 .comlogo img {
-	float: left;
-	margin: 20px 30px 20px 0px;
+	
+	margin: 20px 50px;
 	
 }
 .comlogo {
-	width: 80%;
-    margin: 0 auto;
+    
         
-      }
+}
+	  
+.logo-stack {
+	
+}
 
 
 @media (min-width:768px) {
