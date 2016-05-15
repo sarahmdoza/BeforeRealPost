@@ -208,7 +208,9 @@ header {
 .infoblock { background-color: #cf1b41; 
 }
 
-
+.details {
+padding-right:60px;
+}
 .details h2 {
 	font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
@@ -220,6 +222,32 @@ header {
 	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 15px;
 	color:#690c20
+}
+
+.details p {
+	color:white;
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight:400;
+	}
+	
+.details ul li {
+	color:white;
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight:400;
+	}
+	
+.map p {
+	color:white;
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight:600;
+	font-size:18px;
+	text-align:right;
+	line-height:10px;
+	margin-top:20px;
+}
+
+.map a {
+	color:#4ea2ce;
 }
 
 
@@ -249,7 +277,7 @@ header {
     font-size: 1.5em;
 }
 
-.com-logos { padding:40px 20px;
+.com-logos { padding:40px 60px;
 }
 .america { padding-left:40px;
 }
