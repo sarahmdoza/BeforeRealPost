@@ -191,6 +191,37 @@ header {
     color: #fff;
 }
 
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.infoblock { background-color: #cf1b41; 
+}
+
+
+.details h2 {
+	font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+	color:white;
+	text-transform:inherit;
+	
+	}
+.details h3  { 
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	color:#690c20
+}
+
 
 @media (min-width:768px) {
     .navbar-default {
@@ -277,6 +308,10 @@ section h3.section-subheading {
     margin-bottom: 75px;
 	color:#333333;
 }
+
+
+
+
 @media (min-width:768px) {
     section {
     padding: 150px 0;
