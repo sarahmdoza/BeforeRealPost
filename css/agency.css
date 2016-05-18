@@ -258,6 +258,9 @@ padding-right:60px;
 	margin: 20px 50px;
 	
 }
+.comlogo h2 {text-align:center; font-size: 23px; color: #D23854;}
+.comlogo h3 {text-align:center; font-family: "Lato-Italic", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
 .sponsorpalms {
     background-image: url(../img/Sponsors/Palm_Back.png);
     background-repeat: none;
