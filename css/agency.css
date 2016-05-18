@@ -278,6 +278,7 @@ padding-right:60px;
 	}
 .prizes {background-color:#333333; }
 .prizes h2 {color: white;}
+.prizes ul li {color:white;}
 .circle {
 	width: 100px;
 	height: 100px;
@@ -286,6 +287,8 @@ padding-right:60px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 }
+
+
 
 @media (min-width:768px) {
     .navbar-default {
