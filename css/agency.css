@@ -276,7 +276,16 @@ padding-right:60px;
 .sponsors h2 {
 	color: white;
 	}
-
+.prizes {background-color:#333333; }
+.prizes h2 {color: white;}
+.circle {
+	width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
 
 @media (min-width:768px) {
     .navbar-default {
