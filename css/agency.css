@@ -278,6 +278,7 @@ padding-right:60px;
 	}
 .prizes {background-color:#333333; }
 .prizes h2 {color: white;}
+.prizes ul { padding: 40px 0 40px 100px;}
 .prizes ul li {color:white;}
 .circle {
 	width: 100px;
