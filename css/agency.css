@@ -813,3 +813,16 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+
+@media (max-width:360px) {
+header .intro-text .intro-lead-in-first {font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: bold;
+    font-size: 20px;
+    line-height: 22px;
+    margin-bottom: 50px;
+    color: #cf1b41;}	
+	header .intro-text .intro-heading { font-size:30px; line-height: 20px; }
+}
+
+
