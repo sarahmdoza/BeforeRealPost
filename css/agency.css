@@ -815,7 +815,7 @@ body {
 }
 
 
-@media (max-width:360px) {
+@media (max-width:414px) {
 header .intro-text .intro-lead-in-first {font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: bold;
     font-size: 20px;
