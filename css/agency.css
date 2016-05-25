@@ -146,6 +146,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     letter-spacing: 1px;
     color: #fff;
+	text-shadow: 2px 1px 4px #3C3B3B;
 }
 .navbar-default .nav li a:hover, .navbar-default .nav li a:focus {
     color: #fed136;
