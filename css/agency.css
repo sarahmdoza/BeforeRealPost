@@ -319,6 +319,11 @@ section h3.section-subheading {
 .america { padding-left:40px;
 }
 
+@media (min-width:1196px) {
+	.map p {padding-left: 20px; text-align:left;}
+	
+}
+
 @media (min-width:768px) {
     .navbar-default {
     background-color: transparent;
