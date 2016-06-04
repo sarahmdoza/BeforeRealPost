@@ -826,7 +826,7 @@ header .intro-text .intro-lead-in-first {font-family: "Lato", "Helvetica Neue", 
 	
 	header .intro-text .intro-heading { font-size:30px; line-height: 20px; }
 	
-	header .intro-text {
+	.intro-text {
     padding-top: 300px!important;
     padding-bottom: 200px!important; }
 }
