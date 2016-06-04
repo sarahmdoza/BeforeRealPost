@@ -360,7 +360,7 @@ header .intro-text .intro-lead-in-last {
     margin-bottom: 50px;
 	color:#399fd3;
 }
-@media (min-width:768px) {
+
     header .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
@@ -387,9 +387,6 @@ section h3.section-subheading {
 }
 
 
-
-
-@media (min-width:768px) {
     section {
     padding: 150px 0;
 }
