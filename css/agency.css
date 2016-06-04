@@ -821,9 +821,9 @@ header .intro-text .intro-lead-in-first {font-family: "Lato", "Helvetica Neue", 
     margin-bottom: 50px;
     color: #cf1b41;}	
 	
-	header .intro-text .intro-heading { font-size:30px; line-height: 20px; }
+header .intro-text .intro-heading { font-size:30px; line-height: 20px; }
 	
-	.intro-text {
+header .intro-text {
     padding-top: 300px!important;
     padding-bottom: 200px!important; }
 }
