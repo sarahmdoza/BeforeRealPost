@@ -316,6 +316,8 @@ section h3.section-subheading {
 
 .com-logos { padding:40px 60px;
 }
+.america { padding-left:40px;
+}
 
 @media (min-width:768px) {
     .navbar-default {
@@ -344,8 +346,7 @@ section h3.section-subheading {
 }
 
 
-.america { padding-left:40px;
-}
+
 
 header .intro-text {
     padding-top: 100px;
@@ -875,12 +876,15 @@ margin-bottom: 10px;
 width:180px;}
 
 .com-logos {
-    padding: 35px 10px;
+    padding: 10px 10px 29px 0px;
     width: 94%;
     text-align: center;}
 	
 .codefort  {width: 145px;
 margin-right: 16px;}
+
+section h3.section-subheading {
+    margin-bottom: 10px;}
 
 }
 
