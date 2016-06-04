@@ -314,7 +314,8 @@ section h3.section-subheading {
 	color:#333333;
 }	 
 
-
+.com-logos { padding:40px 60px;
+}
 
 @media (min-width:768px) {
     .navbar-default {
@@ -342,8 +343,7 @@ section h3.section-subheading {
     font-size: 1.5em;
 }
 
-.com-logos { padding:40px 60px;
-}
+
 .america { padding-left:40px;
 }
 
@@ -837,6 +837,9 @@ font-size:43px; line-height: 20px; }
 header .intro-text {
     padding-top: 150px!important;
     padding-bottom: 100px!important; }
+	
+section h2.section-heading { margin-top: 32px; font-size: 31px;}
+section h3.section-subheading { margin-bottom: 26px; }
 }
 
 @media (max-width:414px) {
