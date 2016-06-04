@@ -297,6 +297,22 @@ padding-right:60px;
  .register h2 {color:white;}
  .placeholderbox {  width: 80%; height: 300px; background-color:white; text-algin:center;  margin: 0 auto; margin-top: 40px;
 	 }
+	 
+section h2.section-heading {
+    font-size: 35px;
+    margin-top: 0;
+    margin-bottom: 15px;
+	color:#d23854;
+}
+section h3.section-subheading {
+    font-size: 18px;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: none;
+    font-style: regular;
+    font-weight: 300;
+    margin-bottom: 75px;
+	color:#333333;
+}	 
 
 
 
@@ -370,21 +386,7 @@ header .intro-text .intro-lead-in-last {
 section {
     padding: 100px 0;
 }
-section h2.section-heading {
-    font-size: 35px;
-    margin-top: 0;
-    margin-bottom: 15px;
-	color:#d23854;
-}
-section h3.section-subheading {
-    font-size: 18px;
-    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: none;
-    font-style: regular;
-    font-weight: 300;
-    margin-bottom: 75px;
-	color:#333333;
-}
+
 
 
     section {
