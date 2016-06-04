@@ -621,7 +621,8 @@ section h3.section-subheading {
 .timeline>li.timeline-inverted>.timeline-panel {
     padding: 0 100px 20px 20px;
 }
-}.team-member {
+}
+.team-member {
     text-align: center;
     margin-bottom: 50px;
 }
@@ -829,5 +830,7 @@ header .intro-text .intro-lead-in-first {font-family: "Lato", "Helvetica Neue", 
     padding-top: 300px;
     padding-bottom: 200px; }
 }
+
+
 
 
