@@ -816,10 +816,39 @@ body {
 @media (max-width:767px) {
 header .intro-text .intro-lead-in-first {font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: bold;
+    font-size: 26px;
+    line-height: 22px;
+    margin-bottom: 30px;
+    color: #cf1b41;}	
+	
+header .intro-text .intro-lead-in-last {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: bold;
+    font-size: 30px;
+    line-height: 22px;
+    margin-bottom: 50px;
+    color: #399fd3;}
+	
+header .intro-text .intro-heading { 
+font-size:43px; line-height: 20px; }
+	
+header .intro-text {
+    padding-top: 150px!important;
+    padding-bottom: 100px!important; }
+}
+
+@media (max-width:414px) {
+header .intro-text {
+    padding-top: 100px!important;
+    padding-bottom: 100px!important; }
+
+header .intro-text .intro-lead-in-first { font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: bold;
     font-size: 20px;
     line-height: 22px;
     margin-bottom: 15px;
     color: #cf1b41;}	
+	
 	
 header .intro-text .intro-lead-in-last {
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -829,12 +858,7 @@ header .intro-text .intro-lead-in-last {
     margin-bottom: 50px;
     color: #399fd3;
 }
-	
-header .intro-text .intro-heading { font-size:30px; line-height: 20px; }
-	
-header .intro-text {
-    padding-top: 100px!important;
-    padding-bottom: 100px!important; }
+
 }
 
 
