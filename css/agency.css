@@ -849,7 +849,7 @@ section h2.section-heading { margin-top: 32px; font-size: 31px;}
 section h3.section-subheading { margin-bottom: 26px; }
 }
 
-@media (max-width:414px) {
+@media (max-width:466px) {
 header .intro-text {
     padding-top: 100px!important;
     padding-bottom: 50px!important; }
