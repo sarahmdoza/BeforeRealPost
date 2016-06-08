@@ -284,6 +284,15 @@ padding-right:60px;
 	color: white;
 	}
 .prizes {background-color:#333333; }
+.prizes p { font-size: 18px;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: none;
+    font-style: regular;
+    font-weight: 300;
+    margin-bottom: 75px;
+	color:white;
+	
+	}
 .prizes h2 {color: white;}
 .prizes ul { padding: 40px 0 40px 100px;}
 .prizes ul li {color:white;}
