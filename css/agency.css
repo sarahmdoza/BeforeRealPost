@@ -831,6 +831,14 @@ body {
 }
 
 
+@media (max-width:1198px) {
+.logo-stack {
+    padding: 10px 0px 56px; }
+.comlogo img {
+    margin: 18px 0px; }
+}
+
+
 @media (max-width:767px) {
 header .intro-text .intro-lead-in-first {font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: bold;
