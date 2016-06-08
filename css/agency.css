@@ -96,6 +96,8 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+.logo-stack { padding: 54px 0px 0px; }
+
 .eventbright {margin: 40px 0px;}
 
 .btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active, .open .dropdown-toggle.btn-xl {
@@ -406,10 +408,6 @@ section {
 }
 
 
-
-    section {
-    padding: 150px 0;
-}
 }.service-heading {
     margin: 15px 0;
     text-transform: none;
