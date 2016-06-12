@@ -89,6 +89,24 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+
+.sponbtn {
+	color: #fff;
+    background-color: #cf1b41;
+	border-bottom: 4px solid #c11b3e;
+	margin: 40px 0 0 0;
+
+}
+
+
+.sponbtn:hover {
+	color: #fff;
+    background-color: #cf1b41;
+	border-bottom: 4px solid #c11b3e;
+
+}
+
+
 .learn {
 	color: #fff;
     background-color: #399fd3;
@@ -710,7 +728,14 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
+	background-color: #399fd3;
+	color:white;
 }
+
+footer a {
+	color:#cf1b41;
+	
+	}
 footer span.copyright {
     line-height: 40px;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -729,7 +754,7 @@ ul.social-buttons {
 }
 ul.social-buttons li a {
     display: block;
-    background-color: #222;
+    background-color: #cf1b41;
     height: 40px;
     width: 40px;
     border-radius: 100%;
