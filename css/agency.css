@@ -313,6 +313,9 @@ padding-right:60px;
 	color:white;
 	
 	}
+.money {padding: 20px 20px;}
+.money h2 {text-align:center; font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 22px;}
+.money h3 {text-align:center; font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 18px; margin-top:20px; color:#cf1b41;}
 .prizes h2 {color: white;}
 .prizes ul { padding: 40px 0 40px 100px;}
 .prizes ul li {color:white;}
